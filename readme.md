@@ -83,3 +83,6 @@ This project provides a simple yet robust API for managing book uploads via CSV 
 
 ## API Documentation
 https://documenter.getpostman.com/view/23129267/2sA3Qs9XQC
+
+## Project Vedio Explanation:
+https://www.loom.com/share/8e1e347f326542ae8160abe7017e1084?sid=184d4db9-efcf-400b-8cda-7a559afe5480
