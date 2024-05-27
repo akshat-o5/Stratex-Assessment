@@ -79,4 +79,7 @@ This project is an API for a bookstore that allows sellers to upload book detail
    npm run dev
 
 ## Conclusion
-This project provides a simple yet robust API for managing book uploads via CSV files for a bookstore application. It includes authentication, file processing, and database operations using modern Node.js and Prisma ORM practices.   
+This project provides a simple yet robust API for managing book uploads via CSV files for a bookstore application. It includes authentication, file processing, and database operations using modern Node.js and Prisma ORM practices.  
+
+## API Documentation
+https://documenter.getpostman.com/view/23129267/2sA3Qs9XQC
